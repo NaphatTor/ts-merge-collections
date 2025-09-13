@@ -20,7 +20,7 @@ A TypeScript project that merges three numeric collections into ascending order 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/NaphatTor/Portfolio.git](https://github.com/NaphatTor/ts-merge-collections.git)
+   git clone https://github.com/NaphatTor/ts-merge-collections.git
    ```
 
 2. Install dependencies:
